@@ -5,7 +5,6 @@ In this Project we have to combine Deep Convolutional Nets for image classificat
 
 COCO is a large image dataset designed for object detection, segmentation, person keypoints detection, stuff segmentation, and caption generation. GPU Accelerated Computing (CUDA) is neccessery for this project.
 
-<p align="center"> <img src="images/encoder-decoder.png" align="middle" alt="drawing" width="900px"> </p> 
 
 ## Project Structure
 The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:

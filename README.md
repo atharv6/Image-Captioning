@@ -19,16 +19,6 @@ __Notebook 2__ : Training the CNN-RNN Model;
 __Notebook 3__ : Load trained model and generate predictions.
 
 
-## Inference
-Following are a few results obtained after training the model for 3 epochs.
-
-Image | Caption 
---- | --- 
-<img src="images/Surf.png" width="200"> | **Generated Caption:** a person riding a surf board on a wave
-<img src="images/motorcycle.png" width="200"> | **Generated Caption:** a group of people riding motorcycles down a street
-<img src="images/boy.png" width="200">  | **Generated Caption:** a young boy brushing his teeth with a toothbrush
-<img src="images/vase.png" width="200"> | **Generated Caption:** a vase with a flower on a table
-
 ## References
 [Microsoft COCO](https://arxiv.org/pdf/1405.0312.pdf), [arXiv:1411.4555v2 [cs.CV] 20 Apr 2015](https://arxiv.org/pdf/1411.4555.pdf) </li>
 and [arXiv:1502.03044v3 [cs.LG] 19 Apr 2016](https://arxiv.org/pdf/1502.03044.pdf)
